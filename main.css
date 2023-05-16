@@ -1,0 +1,364 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: -box;
+}
+.box {
+  margin: 0 auto;
+}
+header {
+  margin: 0 auto;
+  width: 1400px;
+  height: 830px;
+  background-color: #eeedde;
+}
+nav {
+  display: flex;
+  width: 1400px;
+  height: 100px;
+}
+.max {
+  width: 40%;
+  height: 100%;
+}
+.max h2 {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 42px;
+  padding: 25px 40px;
+}
+.home {
+  width: 60%;
+  height: 100%;
+}
+.about {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 15px;
+  font-size: 20px;
+  line-height: 24px;
+  color: #203239;
+}
+ul {
+  display: flex;
+  padding: 20px 1px;
+}
+li a {
+  text-decoration: none;
+}
+.hero {
+  width: 100%;
+  height: 730px;
+  display: flex;
+}
+.temukan {
+  width: 60%;
+  height: 100%;
+}
+.temukan h2 {
+  font-weight: 600;
+  font-size: 56px;
+  padding: 30px 60px;
+}
+.temukan p {
+  font-weight: 300;
+  font-size: 25px;
+  padding: 60px 60px;
+}
+.locatsi {
+  width: 250px;
+  margin-top: 50px;
+  margin-left: 60px;
+  background-color: aliceblue;
+  -radius: 6px;
+  display: flex;
+}
+button {
+  background-color: #203239;
+  display: flex;
+  justify-content: end;
+  color: aliceblue;
+}
+ul li {
+  list-style: none;
+}
+.properti h2 {
+  font-size: 25px;
+}
+h2 span {
+  color: #ff7527;
+}
+.properti h2 {
+  font-size: 56px;
+  font-weight: 600;
+  padding: 60px 60px;
+}
+.properti p {
+  color: #2032398c;
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: -80px;
+  margin-left: 30px;
+}
+h2 sub {
+  font-size: 25px;
+  color: #ff7527;
+}
+.photo_home {
+  width: 40%;
+  height: 100%;
+}
+.photo_home img {
+  padding: 20px 80px;
+}
+main {
+  width: 1400px;
+  height: 2400px;
+  margin: 0 auto;
+}
+.tahapan {
+  width: 1400px;
+  height: 700px;
+}
+.pembelian {
+  width: 100%;
+  height: 250px;
+}
+.pembelian h2 {
+  font-weight: 600;
+  font-size: 36px;
+  padding: 150px 60px;
+}
+.lanjut {
+  text-decoration: none;
+  list-style: none;
+  padding: 60px 80px;
+}
+.residen {
+  width: 1400px;
+  height: 800px;
+  display: flex;
+  background-color: #eeedde;
+}
+.favorit {
+  width: 45%;
+  height: 100%;
+}
+
+.pilihan {
+  width: 100%;
+  height: 29%;
+}
+.pilihan h2 {
+  color: #ff7527;
+  padding: 60px 60px;
+  font-weight: 500;
+  font-size: 16px;
+}
+.pilihan p {
+  font-weight: 600;
+  font-size: 36px;
+  margin-top: -45px;
+  margin-left: 55px;
+}
+.escalator {
+  margin-top: 5px;
+  margin-left: 60px;
+}
+.image2 {
+  margin-top: -410px;
+  margin-left: 60px;
+}
+.bangunan {
+  width: 55%;
+  height: 100%;
+}
+.bangunan h2 {
+  margin-top: 220px;
+  padding: 30px 60px;
+  font-weight: 600;
+  font-size: 46px;
+  color: #203239;
+}
+.bangunan p {
+  padding: 0px 60px;
+  font-weight: 400;
+  font-size: 20px;
+}
+.hubungi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  -radius: 6px;
+  border: 1px solid #203239;
+  width: 234px;
+  height: 50px;
+  margin-top: 65px;
+  margin-left: 60px;
+}
+.banyak {
+  -radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 251px;
+  height: 50px;
+  margin-top: -50px;
+  margin-left: 350px;
+}
+.residen2 {
+  width: 1400px;
+  height: 900px;
+}
+.berbagai {
+  display: flex;
+  width: 100%;
+  height: 200px;
+}
+.auditor {
+  width: 70%;
+  height: 200px;
+}
+.auditor p {
+  color: #ff7527;
+  padding: 60px 50px;
+}
+.kato {
+  width: 30%;
+  height: 200px;
+}
+.auditor h2 {
+  font-weight: 600;
+  font-size: 45px;
+  margin-top: -40px;
+  margin-left: 50px;
+}
+.caret {
+  margin-top: 120px;
+  margin-left: 70px;
+}
+.surabaya h2 {
+  font-weight: 500;
+  font-size: 24px;
+  font-weight: 900;
+  font-size: 24px;
+}
+.surabaya p {
+  font-weight: 300;
+  font-size: 16px;
+  font-weight: 300;
+  font-size: 16px;
+}
+.surabaya {
+  padding: 60px 54px;
+}
+footer {
+  width: 1400px;
+  height: 500px;
+  margin: 0 auto;
+}
+.hubungi_footer {
+  width: 1400px;
+  height: 500px;
+  display: flex;
+  background-color: #eeedde;
+}
+.kami_footer {
+  display: flex;
+  width: 700px;
+  height: 500px;
+}
+.call {
+  width: 50%;
+  height: 100%;
+}
+.call h2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 150%;
+  padding: 30px 40px;
+}
+.footer_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  border: 1px solid chocolate;
+  height: 120px;
+  width: 260px;
+  margin-top: 90px;
+  margin-left: 35px;
+}
+.call_button button {
+  background-color: #FF752733;
+  -radius: 1px;
+  margin-top: -45px;
+  margin-left: 110px;
+  -radius: 10px;
+} 
+button h1 {
+  color: #ff7527;
+}
+  .email {
+    padding: 200px 35px;
+  width: 50%;
+  height: 100%;
+}
+.amahindev {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 260px;
+  height: 120px;
+  border: 1px solid chocolate;
+  gap: 20px;
+}
+.email_nov button {
+  background-color: #ff7527;
+  margin-top: -42px;
+  margin-left: 110px;
+  width: 120px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -radius: 10px;
+}
+.penghargaan {
+  width: 700px;
+  height: 500px;
+}
+.penghargaan img {
+  padding: 160px 60px;
+}
+.footer2 {
+  width: 1400px;
+  height: 100px;
+  margin:0 auto;
+  background-color: #203239;
+}
+.mah_navi {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+.mah1 {
+  padding: 30px 90px;
+  color: #eeedde;
+  width: 30%;
+  height: 100%;
+}
+.nav1 {
+  width: 70%;
+  height: 100%;
+}
+.nav1 img {
+  width: 50p;
+  height: 70px;
+  padding: 15px 0px;
+  margin-left: 1px;
+}
